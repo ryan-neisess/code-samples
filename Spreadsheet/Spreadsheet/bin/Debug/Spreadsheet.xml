@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Spreadsheet>
+  <Cell>
+    <Row>0</Row>
+    <Col>0</Col>
+    <Text>Cat</Text>
+  </Cell>
+  <Cell>
+    <Row>1</Row>
+    <Col>1</Col>
+    <Text>13</Text>
+  </Cell>
+  <Cell>
+    <Row>1</Row>
+    <Col>4</Col>
+    <Text>=A1</Text>
+  </Cell>
+  <Cell>
+    <Row>2</Row>
+    <Col>0</Col>
+    <Text>=B2</Text>
+  </Cell>
+  <Cell>
+    <Row>2</Row>
+    <Col>2</Col>
+    <Text>=A3-D4</Text>
+  </Cell>
+  <Cell>
+    <Row>3</Row>
+    <Col>3</Col>
+    <Text>5</Text>
+  </Cell>
+  <Cell>
+    <Row>3</Row>
+    <Col>5</Col>
+    <Text>=kitty</Text>
+  </Cell>
+  <Cell>
+    <Row>5</Row>
+    <Col>0</Col>
+    <Text>B2's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>5</Row>
+    <Col>1</Col>
+    <Text>"13"</Text>
+  </Cell>
+  <Cell>
+    <Row>6</Row>
+    <Col>0</Col>
+    <Text>A3's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>6</Row>
+    <Col>1</Col>
+    <Text>"=B2"</Text>
+  </Cell>
+  <Cell>
+    <Row>7</Row>
+    <Col>0</Col>
+    <Text>C3's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>7</Row>
+    <Col>1</Col>
+    <Text>"=A3-D4"</Text>
+  </Cell>
+  <Cell>
+    <Row>8</Row>
+    <Col>0</Col>
+    <Text>D4's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>8</Row>
+    <Col>1</Col>
+    <Text>"5"</Text>
+  </Cell>
+  <Cell>
+    <Row>9</Row>
+    <Col>0</Col>
+    <Text>A1's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>9</Row>
+    <Col>1</Col>
+    <Text>"Cat"</Text>
+  </Cell>
+  <Cell>
+    <Row>10</Row>
+    <Col>0</Col>
+    <Text>E2's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>10</Row>
+    <Col>1</Col>
+    <Text>"=A1"</Text>
+  </Cell>
+  <Cell>
+    <Row>11</Row>
+    <Col>0</Col>
+    <Text>F4's text is</Text>
+  </Cell>
+  <Cell>
+    <Row>11</Row>
+    <Col>1</Col>
+    <Text>"=kitty"</Text>
+  </Cell>
+</Spreadsheet>

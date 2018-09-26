@@ -1,0 +1,12 @@
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+D:\CS_SE\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojAssemblyReference.cache
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+D:\Comp Sci & Soft Dev\CptS321\cs321-rneisess\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
