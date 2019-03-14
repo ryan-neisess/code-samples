@@ -1,0 +1,14 @@
+-1,"  cd(): error: %s is not a directory\n"
+-2,"  ls(): error: %s is not a directory\n"
+-3,"  make_dir(): error: %s is not a directory\n"
+-4,"  getino(): %s not found\n"
+-5,"  make_dir(): error: %s already exists\n"
+-6,"  enter_name(): error adding name to parent inode\n"
+-7 createfile, parent not directory
+-8, create file, file already exists
+-9 enter reg name, error adding
+-10, rmdir not directory
+-11, rmdir, busy
+-12, rmdir, not empty
+-13
+-14
