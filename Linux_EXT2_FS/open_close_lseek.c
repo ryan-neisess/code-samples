@@ -10,6 +10,9 @@ int rmn_open(void){
 		printf("  rmn_open(): error: mode not specified\n");
 		return -33;
 	}
+
+	printf("    args[1]: %s\n", args[1]);
+	printf("    args[2]: %s\n", args[2]);
 	
 	if (pathname[0] == '/') {
         dev = root->dev;
@@ -28,16 +31,16 @@ int rmn_open(void){
 
 	int i = 0, file_mode = atoi(args[2]);
 	for (i = 0; i < NFD; i++) {
-		if (running->fd[i]!= NULL && running->fd[i]->refCount > 0) {
-			if (file_mode == running->fd[i]->mode && file_mode == 0) {
-				// if modes are same AND mode(s) is/are read, allow
-				continue;
-			}
-			else {
-				printf("  rmn_open(): error: %s already open; all modes not R (read)\n", args[1]);
-				iput(mip);
-				return -35;
-			}
+		if (running->fd[i] != NULL && running->fd[i]->refCount > 0) {
+			// if (file_mode == running->fd[i]->mode && file_mode == 0) {
+			// 	// if modes are same AND mode(s) is/are read, allow
+			// 	continue;
+			// }
+			// else {
+			// 	printf("  rmn_open(): error: %s already open; all modes not R (read)\n", args[1]);
+			// 	iput(mip);
+			// 	return -35;
+			// }
 		}
 	}
 
@@ -75,7 +78,7 @@ int rmn_open(void){
 	}
 
 	mip->INODE.i_atime = time(0L);
-	if (file_mode == 0) {
+	if (file_mode != 0) {
 		mip->INODE.i_mtime = time(0L);
 	}
 	mip->dirty = 1;

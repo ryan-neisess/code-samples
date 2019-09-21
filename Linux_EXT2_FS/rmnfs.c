@@ -8,6 +8,7 @@
 #include "lv1_misc.c"
 #include "open_close_lseek.c"
 #include "read_cat.c"
+#include "write_cp_mv.c"
 
 /*************** globals for Level-1 ********************/
 
@@ -27,10 +28,10 @@ int quit(void); // needs to be declared before fptrs
 
 char * cmd_list[] = { "cd", "ls", "pwd", "mkdir", "creat", "rmdir", 
     "link", "unlink", "symlink", "chmod", "pfd", "open", "close", "lseek", 
-    "read", "cat", "quit", NULL };
+    "read", "cat", "write", "cp", "quit", NULL };
 int (* fptrs[])() = { (int (*) () )cd, ls, pwd, make_dir, create_file, rm_dir, 
     rmn_link, un_link, rmn_symlink, ch_mod, pfd, rmn_open, rmn_close, rmn_lseek, 
-    read_file, rmn_cat, quit };
+    read_file, rmn_cat, rmn_write, rmn_cp, quit };
 
 int identify_cmd(void);
 

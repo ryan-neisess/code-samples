@@ -612,7 +612,7 @@ int my_creat(MINODE * pip, char * name) {
     // No data block for file to process, finish with enter_reg_name()
 
     int result = enter_reg_name(pip, ino, name);
-    if (result) {
+    if (result > 0) {
         return ino;
     }
     else {

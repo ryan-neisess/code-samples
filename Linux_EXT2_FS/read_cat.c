@@ -40,7 +40,7 @@ int rmn_read(int file_desc, char *buf, int nbytes) {
 			int * ind_buf_ptr = (int *)ind_buf;
 			blk = ind_buf_ptr[lbk - 12];
 		}
-		else{ 
+		else { 
 			// double indirect blocks
 			char dbl_ind_buf[BLKSIZE];
 
@@ -58,6 +58,8 @@ int rmn_read(int file_desc, char *buf, int nbytes) {
 			int * second_buf_ptr = (int *)second_buf;
 			blk = second_buf_ptr[second_ind_blk_num];
 		}
+
+		//printf("  lbk: %d\n  disk blk: %d\n", lbk, blk);
 
 		/* get the data block into readbuf[BLKSIZE] */
 		get_block(running->fd[file_desc]->mptr->dev, blk, readbuf);
@@ -105,7 +107,7 @@ int read_file(void) {
 		printf("  read_file(): error: %d not allocated\n", file_fd);
 		return -47;
 	}
-	if (running->fd[file_fd]->mode != 0 && running->fd[file_fd]->mode != 1) {
+	if (running->fd[file_fd]->mode != 0 || running->fd[file_fd]->mode != 1) {
 		printf("  read_file(): error: %d not open for read compatible mode\n", file_fd);
 		return -48;
 	}
@@ -116,7 +118,7 @@ int read_file(void) {
 
 int rmn_cat(void) {
 	if (args[1] == NULL) {
-		printf("  read_file(): error: filename not specified\n");
+		printf("  read_cat(): error: filename not specified\n");
 		return -49;
 	}
 
@@ -125,13 +127,18 @@ int rmn_cat(void) {
 	args[2][1] = '\0';
 
 	int file_desc = rmn_open(), n;
+	if (file_desc < 0) {
+		return file_desc;
+	}
 	char cat_buf[BLKSIZE];
 
+	int x = 0;
 	while (n = rmn_read(file_desc, cat_buf, BLKSIZE)) {
 		printf("%.*s", n, cat_buf); // will print only up to n bytes
+		printf("\n%d - - - - - - - - - - - -\n", ++x);
 	}
 
-	args[1][0] = file_desc - '0';
+	args[1][0] = file_desc + '0';
 	args[1][1] = '\0';
 
 	int finished = rmn_close();
