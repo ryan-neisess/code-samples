@@ -1,0 +1,6 @@
+#! /bin/bash
+today=`date '+%Y_%m_%H_%M_%S'`;
+outfile="$HOME/437project/dataStatistics_$today.txt"
+touch $outfile
+VARIABLE=`python3 myMLP.py`
+echo ${VARIABLE} >> outfile

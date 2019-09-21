@@ -1,0 +1,1547 @@
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5237142511639157
+accuracy of PCA(n_components=2) = 0.5141613005623074
+accuracy of PCA(n_components=3) = 0.44878038273172505
+accuracy of PCA(n_components=4) = 0.43664656267005264
+accuracy of PCA(n_components=5) = 0.4812714644174376
+accuracy of PCA(n_components=6) = 0.49502516778523487
+accuracy of PCA(n_components=7) = 0.49510581050849517
+accuracy of PCA(n_components=8) = 0.4991049186770663
+accuracy of PCA(n_components=9) = 0.5033463329100913
+accuracy of PCA(n_components=10) = 0.4996119777495616
+accuracy of PCA(n_components=11) = 0.5037231694782032
+accuracy of PCA(n_components=12) = 0.5049167875929621
+accuracy of PCA(n_components=13) = 0.5026072465082533
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5256617691517022
+accuracy of PCA(n_components=2) = 0.48944487272507414
+accuracy of PCA(n_components=3) = 0.40739668359634806
+accuracy of PCA(n_components=4) = 0.4143685380010883
+accuracy of PCA(n_components=5) = 0.4603521222564847
+accuracy of PCA(n_components=6) = 0.47870208295543876
+accuracy of PCA(n_components=7) = 0.47544342160952907
+accuracy of PCA(n_components=8) = 0.4838134107261624
+accuracy of PCA(n_components=9) = 0.4908733901686922
+accuracy of PCA(n_components=10) = 0.4884825261503114
+accuracy of PCA(n_components=11) = 0.4936885543261382
+accuracy of PCA(n_components=12) = 0.4920933853316404
+accuracy of PCA(n_components=13) = 0.4967600822298807
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5236884787472037
+accuracy of PCA(n_components=2) = 0.4553563546768244
+accuracy of PCA(n_components=3) = 0.3990620654211258
+accuracy of PCA(n_components=4) = 0.4165381824777798
+accuracy of PCA(n_components=5) = 0.4612230938992684
+accuracy of PCA(n_components=6) = 0.47775175343128357
+accuracy of PCA(n_components=7) = 0.4809299232118024
+accuracy of PCA(n_components=8) = 0.47987982949392344
+accuracy of PCA(n_components=9) = 0.4945982223834574
+accuracy of PCA(n_components=10) = 0.4939316161799383
+accuracy of PCA(n_components=11) = 0.4952943043714857
+accuracy of PCA(n_components=12) = 0.4941421035129089
+accuracy of PCA(n_components=13) = 0.4957643297660077
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5241941018199407
+accuracy of PCA(n_components=2) = 0.5149346998004717
+accuracy of PCA(n_components=3) = 0.44970388173408316
+accuracy of PCA(n_components=4) = 0.4380901959005986
+accuracy of PCA(n_components=5) = 0.4827578753249895
+accuracy of PCA(n_components=6) = 0.4964623768063365
+accuracy of PCA(n_components=7) = 0.49459482133139865
+accuracy of PCA(n_components=8) = 0.49759371787895273
+accuracy of PCA(n_components=9) = 0.5022023701553903
+accuracy of PCA(n_components=10) = 0.4988588336658806
+accuracy of PCA(n_components=11) = 0.5022980530866437
+accuracy of PCA(n_components=12) = 0.5017007527661891
+accuracy of PCA(n_components=13) = 0.5026933309148074
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5249427111675434
+accuracy of PCA(n_components=2) = 0.4902014178608139
+accuracy of PCA(n_components=3) = 0.406993092085374
+accuracy of PCA(n_components=4) = 0.4156901868311264
+accuracy of PCA(n_components=5) = 0.46186672410665697
+accuracy of PCA(n_components=6) = 0.47676287865046263
+accuracy of PCA(n_components=7) = 0.47582358365076494
+accuracy of PCA(n_components=8) = 0.4854686649736985
+accuracy of PCA(n_components=9) = 0.48982155813531664
+accuracy of PCA(n_components=10) = 0.4890730999455831
+accuracy of PCA(n_components=11) = 0.49124418042203283
+accuracy of PCA(n_components=12) = 0.49243129874841274
+accuracy of PCA(n_components=13) = 0.49381061430558076
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5255578481165729
+accuracy of PCA(n_components=2) = 0.4576960517564545
+accuracy of PCA(n_components=3) = 0.39709013543745086
+accuracy of PCA(n_components=4) = 0.4155445462240764
+accuracy of PCA(n_components=5) = 0.4567990809601547
+accuracy of PCA(n_components=6) = 0.47358841223774106
+accuracy of PCA(n_components=7) = 0.4749204153818249
+accuracy of PCA(n_components=8) = 0.4822670657234414
+accuracy of PCA(n_components=9) = 0.49274170143297674
+accuracy of PCA(n_components=10) = 0.4917041538182479
+accuracy of PCA(n_components=11) = 0.4938171140939598
+accuracy of PCA(n_components=12) = 0.4918736773686439
+accuracy of PCA(n_components=13) = 0.4941362083560071
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5233154211258237
+accuracy of PCA(n_components=2) = 0.5132272960880344
+accuracy of PCA(n_components=3) = 0.4483842735352803
+accuracy of PCA(n_components=4) = 0.43665971340467985
+accuracy of PCA(n_components=5) = 0.4812948938871759
+accuracy of PCA(n_components=6) = 0.4970402533405889
+accuracy of PCA(n_components=7) = 0.49338918616603167
+accuracy of PCA(n_components=8) = 0.49946233145897584
+accuracy of PCA(n_components=9) = 0.5018810085253038
+accuracy of PCA(n_components=10) = 0.5009590211016386
+accuracy of PCA(n_components=11) = 0.5052307424874538
+accuracy of PCA(n_components=12) = 0.5017840407521615
+accuracy of PCA(n_components=13) = 0.5025055172622285
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5254385845577121
+accuracy of PCA(n_components=2) = 0.4878230243666487
+accuracy of PCA(n_components=3) = 0.40457101396698714
+accuracy of PCA(n_components=4) = 0.41700919039845213
+accuracy of PCA(n_components=5) = 0.4605114426507043
+accuracy of PCA(n_components=6) = 0.4756080325291734
+accuracy of PCA(n_components=7) = 0.47583408912267977
+accuracy of PCA(n_components=8) = 0.4810664943466956
+accuracy of PCA(n_components=9) = 0.49033360541749804
+accuracy of PCA(n_components=10) = 0.48754746357095363
+accuracy of PCA(n_components=11) = 0.49067756514904165
+accuracy of PCA(n_components=12) = 0.48969420763044913
+accuracy of PCA(n_components=13) = 0.4935239434064937
+HyperParams:
+    Activation     =relu
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.523651293911361
+accuracy of PCA(n_components=2) = 0.4579806064453716
+accuracy of PCA(n_components=3) = 0.4018107956950239
+accuracy of PCA(n_components=4) = 0.4177438932220811
+accuracy of PCA(n_components=5) = 0.4583071830219481
+accuracy of PCA(n_components=6) = 0.4706585948364471
+accuracy of PCA(n_components=7) = 0.47501020315617626
+accuracy of PCA(n_components=8) = 0.4791999969768426
+accuracy of PCA(n_components=9) = 0.4916097557288834
+accuracy of PCA(n_components=10) = 0.49011117661285436
+accuracy of PCA(n_components=11) = 0.4929429681359211
+accuracy of PCA(n_components=12) = 0.48894809238768994
+accuracy of PCA(n_components=13) = 0.4898473305520286
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5235907551847149
+accuracy of PCA(n_components=2) = 0.5103121410000604
+accuracy of PCA(n_components=3) = 0.49384545619444953
+accuracy of PCA(n_components=4) = 0.4909838109922004
+accuracy of PCA(n_components=5) = 0.5173463480258783
+accuracy of PCA(n_components=6) = 0.5198650916016686
+accuracy of PCA(n_components=7) = 0.52113580022976
+accuracy of PCA(n_components=8) = 0.519824354555898
+accuracy of PCA(n_components=9) = 0.5208347693330916
+accuracy of PCA(n_components=10) = 0.5198742366527601
+accuracy of PCA(n_components=11) = 0.5209151853195477
+accuracy of PCA(n_components=12) = 0.5195901354374509
+accuracy of PCA(n_components=13) = 0.51897318459399
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5330646502206904
+accuracy of PCA(n_components=2) = 0.5150996130358546
+accuracy of PCA(n_components=3) = 0.48976683898663764
+accuracy of PCA(n_components=4) = 0.48687458431585956
+accuracy of PCA(n_components=5) = 0.5232995495495496
+accuracy of PCA(n_components=6) = 0.5292191940262411
+accuracy of PCA(n_components=7) = 0.5291829161376141
+accuracy of PCA(n_components=8) = 0.526295045045045
+accuracy of PCA(n_components=9) = 0.5262219602152487
+accuracy of PCA(n_components=10) = 0.527518667996856
+accuracy of PCA(n_components=11) = 0.5300562307273717
+accuracy of PCA(n_components=12) = 0.5291214704637522
+accuracy of PCA(n_components=13) = 0.5306514148376564
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5332861720781185
+accuracy of PCA(n_components=2) = 0.5172436362537033
+accuracy of PCA(n_components=3) = 0.48894862144023216
+accuracy of PCA(n_components=4) = 0.48416243424632693
+accuracy of PCA(n_components=5) = 0.5213807515569261
+accuracy of PCA(n_components=6) = 0.5284077030050185
+accuracy of PCA(n_components=7) = 0.5273254882399179
+accuracy of PCA(n_components=8) = 0.5294297569381461
+accuracy of PCA(n_components=9) = 0.5331914716730153
+accuracy of PCA(n_components=10) = 0.531618598464236
+accuracy of PCA(n_components=11) = 0.5297852802466898
+accuracy of PCA(n_components=12) = 0.5304421367676401
+accuracy of PCA(n_components=13) = 0.5309024880585284
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5223804341254007
+accuracy of PCA(n_components=2) = 0.5098165699256304
+accuracy of PCA(n_components=3) = 0.4944992895580144
+accuracy of PCA(n_components=4) = 0.4894911270330734
+accuracy of PCA(n_components=5) = 0.5165012243787411
+accuracy of PCA(n_components=6) = 0.5222667634077031
+accuracy of PCA(n_components=7) = 0.5205090997037306
+accuracy of PCA(n_components=8) = 0.5206164217909184
+accuracy of PCA(n_components=9) = 0.5172625309873632
+accuracy of PCA(n_components=10) = 0.5214852016445977
+accuracy of PCA(n_components=11) = 0.5179297418223592
+accuracy of PCA(n_components=12) = 0.5199328103271056
+accuracy of PCA(n_components=13) = 0.5207547312413083
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.533521373722716
+accuracy of PCA(n_components=2) = 0.5166802708749018
+accuracy of PCA(n_components=3) = 0.4916628877199347
+accuracy of PCA(n_components=4) = 0.4846276225890319
+accuracy of PCA(n_components=5) = 0.5234370276316584
+accuracy of PCA(n_components=6) = 0.5293235685349781
+accuracy of PCA(n_components=7) = 0.5283448213313986
+accuracy of PCA(n_components=8) = 0.5290401475300804
+accuracy of PCA(n_components=9) = 0.5268053540117298
+accuracy of PCA(n_components=10) = 0.5294720811415442
+accuracy of PCA(n_components=11) = 0.5278361751012758
+accuracy of PCA(n_components=12) = 0.5289077332365923
+accuracy of PCA(n_components=13) = 0.5285955166575972
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5346605750045347
+accuracy of PCA(n_components=2) = 0.5168383064272325
+accuracy of PCA(n_components=3) = 0.4890647862627728
+accuracy of PCA(n_components=4) = 0.48314211862869577
+accuracy of PCA(n_components=5) = 0.5235388324566177
+accuracy of PCA(n_components=6) = 0.5285696686619505
+accuracy of PCA(n_components=7) = 0.5284159411088941
+accuracy of PCA(n_components=8) = 0.5305265584376323
+accuracy of PCA(n_components=9) = 0.5299823145292943
+accuracy of PCA(n_components=10) = 0.5310896215006954
+accuracy of PCA(n_components=11) = 0.5308879013241429
+accuracy of PCA(n_components=12) = 0.5323917709655964
+accuracy of PCA(n_components=13) = 0.5317581927565149
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5216716548763529
+accuracy of PCA(n_components=2) = 0.5116613761412419
+accuracy of PCA(n_components=3) = 0.4916822359272022
+accuracy of PCA(n_components=4) = 0.4889149888143178
+accuracy of PCA(n_components=5) = 0.5180783300078602
+accuracy of PCA(n_components=6) = 0.5198480107624402
+accuracy of PCA(n_components=7) = 0.5195023882943345
+accuracy of PCA(n_components=8) = 0.5197103059435275
+accuracy of PCA(n_components=9) = 0.5194258268335451
+accuracy of PCA(n_components=10) = 0.5210395126670294
+accuracy of PCA(n_components=11) = 0.5191821603482678
+accuracy of PCA(n_components=12) = 0.5181956285144205
+accuracy of PCA(n_components=13) = 0.5192806397001029
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5317692272809721
+accuracy of PCA(n_components=2) = 0.5157199649313744
+accuracy of PCA(n_components=3) = 0.49095894552270386
+accuracy of PCA(n_components=4) = 0.4864765100671139
+accuracy of PCA(n_components=5) = 0.52164081867102
+accuracy of PCA(n_components=6) = 0.5284875899389322
+accuracy of PCA(n_components=7) = 0.5277666424814076
+accuracy of PCA(n_components=8) = 0.5302614275349175
+accuracy of PCA(n_components=9) = 0.529263634439809
+accuracy of PCA(n_components=10) = 0.5273328193965777
+accuracy of PCA(n_components=11) = 0.5297097013120502
+accuracy of PCA(n_components=12) = 0.5285735231876172
+accuracy of PCA(n_components=13) = 0.5286190217062701
+HyperParams:
+    Activation     =relu
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5348693240220086
+accuracy of PCA(n_components=2) = 0.5191763407703005
+accuracy of PCA(n_components=3) = 0.4906133986335329
+accuracy of PCA(n_components=4) = 0.48234362718423124
+accuracy of PCA(n_components=5) = 0.5233879769030776
+accuracy of PCA(n_components=6) = 0.5288363867222927
+accuracy of PCA(n_components=7) = 0.5286370850716487
+accuracy of PCA(n_components=8) = 0.5320948213313985
+accuracy of PCA(n_components=9) = 0.5289332033375659
+accuracy of PCA(n_components=10) = 0.5307990960759416
+accuracy of PCA(n_components=11) = 0.5295967863836991
+accuracy of PCA(n_components=12) = 0.5315368976358911
+accuracy of PCA(n_components=13) = 0.5300488995707117
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5224359090634259
+accuracy of PCA(n_components=2) = 0.5174375717999877
+accuracy of PCA(n_components=3) = 0.4994536398814923
+accuracy of PCA(n_components=4) = 0.49076319608198804
+accuracy of PCA(n_components=5) = 0.5307322087187859
+accuracy of PCA(n_components=6) = 0.535929998790737
+accuracy of PCA(n_components=7) = 0.5367740643327891
+accuracy of PCA(n_components=8) = 0.5409341556321422
+accuracy of PCA(n_components=9) = 0.5411212134953747
+accuracy of PCA(n_components=10) = 0.5402564393252313
+accuracy of PCA(n_components=11) = 0.5424745298990266
+accuracy of PCA(n_components=12) = 0.5422573160408731
+accuracy of PCA(n_components=13) = 0.5453323961545438
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5220298990265433
+accuracy of PCA(n_components=2) = 0.5235254549851865
+accuracy of PCA(n_components=3) = 0.497162842372574
+accuracy of PCA(n_components=4) = 0.48776263679787174
+accuracy of PCA(n_components=5) = 0.5277180452264345
+accuracy of PCA(n_components=6) = 0.5390436241610739
+accuracy of PCA(n_components=7) = 0.5361506137009492
+accuracy of PCA(n_components=8) = 0.5412696505230061
+accuracy of PCA(n_components=9) = 0.541815179273233
+accuracy of PCA(n_components=10) = 0.5420178819759356
+accuracy of PCA(n_components=11) = 0.5451339258721809
+accuracy of PCA(n_components=12) = 0.5445803857548824
+accuracy of PCA(n_components=13) = 0.5471258086946006
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5233112642844185
+accuracy of PCA(n_components=2) = 0.5220258933430073
+accuracy of PCA(n_components=3) = 0.49307470221899746
+accuracy of PCA(n_components=4) = 0.4842489721264889
+accuracy of PCA(n_components=5) = 0.5249303918011973
+accuracy of PCA(n_components=6) = 0.5341678759296209
+accuracy of PCA(n_components=7) = 0.5306715944132052
+accuracy of PCA(n_components=8) = 0.5359556200495796
+accuracy of PCA(n_components=9) = 0.5375126972610195
+accuracy of PCA(n_components=10) = 0.5366294062518896
+accuracy of PCA(n_components=11) = 0.5401686166031804
+accuracy of PCA(n_components=12) = 0.5391573704577061
+accuracy of PCA(n_components=13) = 0.540217289437088
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5199975814740915
+accuracy of PCA(n_components=2) = 0.5183294032287321
+accuracy of PCA(n_components=3) = 0.49700420218876595
+accuracy of PCA(n_components=4) = 0.4891576727734447
+accuracy of PCA(n_components=5) = 0.5283754307999274
+accuracy of PCA(n_components=6) = 0.5377321029082773
+accuracy of PCA(n_components=7) = 0.534141423302497
+accuracy of PCA(n_components=8) = 0.5405799927444224
+accuracy of PCA(n_components=9) = 0.5399884364230001
+accuracy of PCA(n_components=10) = 0.5413052482012214
+accuracy of PCA(n_components=11) = 0.545376609831308
+accuracy of PCA(n_components=12) = 0.5416941018199407
+accuracy of PCA(n_components=13) = 0.5420037487151582
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5257559405042627
+accuracy of PCA(n_components=2) = 0.523340740068928
+accuracy of PCA(n_components=3) = 0.4982131628272567
+accuracy of PCA(n_components=4) = 0.4880145413870246
+accuracy of PCA(n_components=5) = 0.5271501451115544
+accuracy of PCA(n_components=6) = 0.5382573765040208
+accuracy of PCA(n_components=7) = 0.5358860874297117
+accuracy of PCA(n_components=8) = 0.5425965142995345
+accuracy of PCA(n_components=9) = 0.5441086220448635
+accuracy of PCA(n_components=10) = 0.5419034554688917
+accuracy of PCA(n_components=11) = 0.5467246357095349
+accuracy of PCA(n_components=12) = 0.5429295150855554
+accuracy of PCA(n_components=13) = 0.5478935395126671
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5214358486002781
+accuracy of PCA(n_components=2) = 0.5239483191244936
+accuracy of PCA(n_components=3) = 0.4950829856702341
+accuracy of PCA(n_components=4) = 0.4823941139125703
+accuracy of PCA(n_components=5) = 0.5210590120321663
+accuracy of PCA(n_components=6) = 0.5342406584436785
+accuracy of PCA(n_components=7) = 0.5310321059314347
+accuracy of PCA(n_components=8) = 0.5361707932764979
+accuracy of PCA(n_components=9) = 0.5365672047886814
+accuracy of PCA(n_components=10) = 0.5369033043110225
+accuracy of PCA(n_components=11) = 0.5413351774593386
+accuracy of PCA(n_components=12) = 0.5396039663824899
+accuracy of PCA(n_components=13) = 0.5404063879315557
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5208479200677186
+accuracy of PCA(n_components=2) = 0.5193839561037547
+accuracy of PCA(n_components=3) = 0.49614993349053754
+accuracy of PCA(n_components=4) = 0.4928084376322631
+accuracy of PCA(n_components=5) = 0.5300945492472339
+accuracy of PCA(n_components=6) = 0.5376185077695145
+accuracy of PCA(n_components=7) = 0.5339941199588851
+accuracy of PCA(n_components=8) = 0.5403271056291191
+accuracy of PCA(n_components=9) = 0.5420564272326017
+accuracy of PCA(n_components=10) = 0.5420818973335751
+accuracy of PCA(n_components=11) = 0.5434446611040571
+accuracy of PCA(n_components=12) = 0.5440425660559887
+accuracy of PCA(n_components=13) = 0.5423001692968136
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5222861116149706
+accuracy of PCA(n_components=2) = 0.5224080960154787
+accuracy of PCA(n_components=3) = 0.4994980802950602
+accuracy of PCA(n_components=4) = 0.48869467621984397
+accuracy of PCA(n_components=5) = 0.5310687617147349
+accuracy of PCA(n_components=6) = 0.5396799232118024
+accuracy of PCA(n_components=7) = 0.5376578088155269
+accuracy of PCA(n_components=8) = 0.5407130872483221
+accuracy of PCA(n_components=9) = 0.5422434095168995
+accuracy of PCA(n_components=10) = 0.5435166122498337
+accuracy of PCA(n_components=11) = 0.5447724318278009
+accuracy of PCA(n_components=12) = 0.5442271298143779
+accuracy of PCA(n_components=13) = 0.545553011064756
+HyperParams:
+    Activation     =relu
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5214102273414354
+accuracy of PCA(n_components=2) = 0.5214439355462847
+accuracy of PCA(n_components=3) = 0.49512946671503716
+accuracy of PCA(n_components=4) = 0.4838970010278734
+accuracy of PCA(n_components=5) = 0.5229441773988752
+accuracy of PCA(n_components=6) = 0.5343840316826894
+accuracy of PCA(n_components=7) = 0.5327247717516175
+accuracy of PCA(n_components=8) = 0.5369210653606626
+accuracy of PCA(n_components=9) = 0.5357656901868312
+accuracy of PCA(n_components=10) = 0.5374127819094263
+accuracy of PCA(n_components=11) = 0.5437073734808633
+accuracy of PCA(n_components=12) = 0.5405538424330371
+accuracy of PCA(n_components=13) = 0.5419416984098192
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5203865862506803
+accuracy of PCA(n_components=2) = 0.4570577120744906
+accuracy of PCA(n_components=3) = 0.381768622649495
+accuracy of PCA(n_components=4) = 0.4011850776951448
+accuracy of PCA(n_components=5) = 0.46438236894612733
+accuracy of PCA(n_components=6) = 0.47471824173166444
+accuracy of PCA(n_components=7) = 0.4770577876534252
+accuracy of PCA(n_components=8) = 0.4798863292823024
+accuracy of PCA(n_components=9) = 0.48654506016083204
+accuracy of PCA(n_components=10) = 0.4844692847209625
+accuracy of PCA(n_components=11) = 0.48757822419735175
+accuracy of PCA(n_components=12) = 0.4849500423242034
+accuracy of PCA(n_components=13) = 0.48721673015297173
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5091271388838502
+accuracy of PCA(n_components=2) = 0.4335366406675133
+accuracy of PCA(n_components=3) = 0.37545551423907125
+accuracy of PCA(n_components=4) = 0.40725346151520647
+accuracy of PCA(n_components=5) = 0.4687465989479413
+accuracy of PCA(n_components=6) = 0.4806919251466232
+accuracy of PCA(n_components=7) = 0.48184820726767047
+accuracy of PCA(n_components=8) = 0.4831361478928592
+accuracy of PCA(n_components=9) = 0.4892982495918738
+accuracy of PCA(n_components=10) = 0.48937299715823207
+accuracy of PCA(n_components=11) = 0.4889687254368462
+accuracy of PCA(n_components=12) = 0.4909689975210109
+accuracy of PCA(n_components=13) = 0.48955703186407884
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5022320726767034
+accuracy of PCA(n_components=2) = 0.42357730213434913
+accuracy of PCA(n_components=3) = 0.38224673499002365
+accuracy of PCA(n_components=4) = 0.4115575306850475
+accuracy of PCA(n_components=5) = 0.4677488814317673
+accuracy of PCA(n_components=6) = 0.4825046858939477
+accuracy of PCA(n_components=7) = 0.48243779853679175
+accuracy of PCA(n_components=8) = 0.49014428018622647
+accuracy of PCA(n_components=9) = 0.49074981861055683
+accuracy of PCA(n_components=10) = 0.4899342463268637
+accuracy of PCA(n_components=11) = 0.49097375899389323
+accuracy of PCA(n_components=12) = 0.4900613700949272
+accuracy of PCA(n_components=13) = 0.4931662283088457
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5212766037849931
+accuracy of PCA(n_components=2) = 0.45896645806880704
+accuracy of PCA(n_components=3) = 0.37935047463570953
+accuracy of PCA(n_components=4) = 0.4030061521252796
+accuracy of PCA(n_components=5) = 0.4632177731422698
+accuracy of PCA(n_components=6) = 0.4753159955257271
+accuracy of PCA(n_components=7) = 0.4724171654876353
+accuracy of PCA(n_components=8) = 0.47951213797690306
+accuracy of PCA(n_components=9) = 0.4818392133744481
+accuracy of PCA(n_components=10) = 0.4825122437874116
+accuracy of PCA(n_components=11) = 0.48430097043352077
+accuracy of PCA(n_components=12) = 0.4859221385815345
+accuracy of PCA(n_components=13) = 0.4824146713827921
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5075359755728883
+accuracy of PCA(n_components=2) = 0.4346058558558559
+accuracy of PCA(n_components=3) = 0.37336500090694724
+accuracy of PCA(n_components=4) = 0.4033669659592478
+accuracy of PCA(n_components=5) = 0.45988852107140704
+accuracy of PCA(n_components=6) = 0.47290578330007865
+accuracy of PCA(n_components=7) = 0.47484619686800905
+accuracy of PCA(n_components=8) = 0.48095750952294575
+accuracy of PCA(n_components=9) = 0.48206156660015725
+accuracy of PCA(n_components=10) = 0.48443225104298926
+accuracy of PCA(n_components=11) = 0.48359483644718537
+accuracy of PCA(n_components=12) = 0.486568943104178
+accuracy of PCA(n_components=13) = 0.4826485126065663
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5012140244271118
+accuracy of PCA(n_components=2) = 0.4232968287079026
+accuracy of PCA(n_components=3) = 0.37797199044682267
+accuracy of PCA(n_components=4) = 0.39905934457947895
+accuracy of PCA(n_components=5) = 0.4622359272023701
+accuracy of PCA(n_components=6) = 0.4743853165245782
+accuracy of PCA(n_components=7) = 0.47546957192091416
+accuracy of PCA(n_components=8) = 0.4784021101638551
+accuracy of PCA(n_components=9) = 0.48242389201281827
+accuracy of PCA(n_components=10) = 0.4844980047161254
+accuracy of PCA(n_components=11) = 0.4859677126791221
+accuracy of PCA(n_components=12) = 0.48728225708930417
+accuracy of PCA(n_components=13) = 0.48384250861599865
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5201196414535342
+accuracy of PCA(n_components=2) = 0.4601049035612795
+accuracy of PCA(n_components=3) = 0.3781619203095713
+accuracy of PCA(n_components=4) = 0.40078609649918373
+accuracy of PCA(n_components=5) = 0.4606044803192455
+accuracy of PCA(n_components=6) = 0.4700030231573856
+accuracy of PCA(n_components=7) = 0.47195719209142034
+accuracy of PCA(n_components=8) = 0.4814007799746055
+accuracy of PCA(n_components=9) = 0.4799870760021766
+accuracy of PCA(n_components=10) = 0.4787530231573856
+accuracy of PCA(n_components=11) = 0.4827450269061008
+accuracy of PCA(n_components=12) = 0.48278916500393004
+accuracy of PCA(n_components=13) = 0.4839250408126248
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5095844670173528
+accuracy of PCA(n_components=2) = 0.4321224076425418
+accuracy of PCA(n_components=3) = 0.3763304159864562
+accuracy of PCA(n_components=4) = 0.39554666243424635
+accuracy of PCA(n_components=5) = 0.45889858818550094
+accuracy of PCA(n_components=6) = 0.4704933792853256
+accuracy of PCA(n_components=7) = 0.47475399056774903
+accuracy of PCA(n_components=8) = 0.47841798174012934
+accuracy of PCA(n_components=9) = 0.478974015962271
+accuracy of PCA(n_components=10) = 0.48156312352621083
+accuracy of PCA(n_components=11) = 0.4824959943164642
+accuracy of PCA(n_components=12) = 0.4812441804220328
+accuracy of PCA(n_components=13) = 0.4830936725315919
+HyperParams:
+    Activation     =tanh
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5011333817038516
+accuracy of PCA(n_components=2) = 0.42457010701977127
+accuracy of PCA(n_components=3) = 0.3773633532861721
+accuracy of PCA(n_components=4) = 0.3979920944434367
+accuracy of PCA(n_components=5) = 0.46020595259689223
+accuracy of PCA(n_components=6) = 0.47048000181389443
+accuracy of PCA(n_components=7) = 0.47429590664490007
+accuracy of PCA(n_components=8) = 0.477788333635649
+accuracy of PCA(n_components=9) = 0.4813748564000242
+accuracy of PCA(n_components=10) = 0.47933059737589934
+accuracy of PCA(n_components=11) = 0.4802095803857548
+accuracy of PCA(n_components=12) = 0.4808104329161377
+accuracy of PCA(n_components=13) = 0.4829310266642482
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.4378895338291312
+accuracy of PCA(n_components=2) = 0.4522217939415926
+accuracy of PCA(n_components=3) = 0.4321963238406192
+accuracy of PCA(n_components=4) = 0.4331755245178064
+accuracy of PCA(n_components=5) = 0.4342802618054296
+accuracy of PCA(n_components=6) = 0.4363707751375537
+accuracy of PCA(n_components=7) = 0.43646819638430373
+accuracy of PCA(n_components=8) = 0.4386788046435697
+accuracy of PCA(n_components=9) = 0.43604563456073525
+accuracy of PCA(n_components=10) = 0.4351348328193965
+accuracy of PCA(n_components=11) = 0.43483138339681976
+accuracy of PCA(n_components=12) = 0.4373558709716428
+accuracy of PCA(n_components=13) = 0.43777971763710016
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5077767700586493
+accuracy of PCA(n_components=2) = 0.47224356067476875
+accuracy of PCA(n_components=3) = 0.44227333877501646
+accuracy of PCA(n_components=4) = 0.442490174738497
+accuracy of PCA(n_components=5) = 0.4531179333696111
+accuracy of PCA(n_components=6) = 0.4530558074853376
+accuracy of PCA(n_components=7) = 0.45201402745026914
+accuracy of PCA(n_components=8) = 0.4545350383940988
+accuracy of PCA(n_components=9) = 0.4551151822963903
+accuracy of PCA(n_components=10) = 0.45629761472882285
+accuracy of PCA(n_components=11) = 0.45506802104117544
+accuracy of PCA(n_components=12) = 0.4515173226918193
+accuracy of PCA(n_components=13) = 0.45720667815466487
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5251649888143176
+accuracy of PCA(n_components=2) = 0.4841834451901567
+accuracy of PCA(n_components=3) = 0.4514236048128666
+accuracy of PCA(n_components=4) = 0.44734544107866253
+accuracy of PCA(n_components=5) = 0.4652677761654271
+accuracy of PCA(n_components=6) = 0.47005063788620843
+accuracy of PCA(n_components=7) = 0.4664993349053751
+accuracy of PCA(n_components=8) = 0.4679647348690974
+accuracy of PCA(n_components=9) = 0.4700066509462483
+accuracy of PCA(n_components=10) = 0.46954584618175216
+accuracy of PCA(n_components=11) = 0.4681361478928593
+accuracy of PCA(n_components=12) = 0.4701046012455408
+accuracy of PCA(n_components=13) = 0.47044667150371855
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.43868522885301414
+accuracy of PCA(n_components=2) = 0.45198084829796253
+accuracy of PCA(n_components=3) = 0.43201455650281156
+accuracy of PCA(n_components=4) = 0.4301262168208477
+accuracy of PCA(n_components=5) = 0.4362504534736079
+accuracy of PCA(n_components=6) = 0.43463759900840443
+accuracy of PCA(n_components=7) = 0.43851487393433713
+accuracy of PCA(n_components=8) = 0.43458582743817636
+accuracy of PCA(n_components=9) = 0.4368360390591934
+accuracy of PCA(n_components=10) = 0.43704743333937973
+accuracy of PCA(n_components=11) = 0.4358790585887901
+accuracy of PCA(n_components=12) = 0.43777155511215915
+accuracy of PCA(n_components=13) = 0.43707244996674527
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5084216851079267
+accuracy of PCA(n_components=2) = 0.47152661890077996
+accuracy of PCA(n_components=3) = 0.44259205514239075
+accuracy of PCA(n_components=4) = 0.4411538635951389
+accuracy of PCA(n_components=5) = 0.4527782060584074
+accuracy of PCA(n_components=6) = 0.45478973940383327
+accuracy of PCA(n_components=7) = 0.45494928653485706
+accuracy of PCA(n_components=8) = 0.452980530866437
+accuracy of PCA(n_components=9) = 0.45376141241913065
+accuracy of PCA(n_components=10) = 0.4549671987423666
+accuracy of PCA(n_components=11) = 0.45381877683052185
+accuracy of PCA(n_components=12) = 0.4545694268093597
+accuracy of PCA(n_components=13) = 0.45470048068202434
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5233711983795876
+accuracy of PCA(n_components=2) = 0.48515539028961846
+accuracy of PCA(n_components=3) = 0.44930036580204363
+accuracy of PCA(n_components=4) = 0.44716465626700536
+accuracy of PCA(n_components=5) = 0.4657622135558377
+accuracy of PCA(n_components=6) = 0.46832033375657534
+accuracy of PCA(n_components=7) = 0.46654604268698224
+accuracy of PCA(n_components=8) = 0.46916643992986284
+accuracy of PCA(n_components=9) = 0.4711556019106355
+accuracy of PCA(n_components=10) = 0.4703927837233206
+accuracy of PCA(n_components=11) = 0.4677850837414596
+accuracy of PCA(n_components=12) = 0.4692123163431888
+accuracy of PCA(n_components=13) = 0.4700475391498882
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.4371523369006591
+accuracy of PCA(n_components=2) = 0.45301597738678273
+accuracy of PCA(n_components=3) = 0.43399812564242096
+accuracy of PCA(n_components=4) = 0.4314017625007558
+accuracy of PCA(n_components=5) = 0.4366105115182296
+accuracy of PCA(n_components=6) = 0.43839515690186837
+accuracy of PCA(n_components=7) = 0.4362869580990386
+accuracy of PCA(n_components=8) = 0.43373405284479116
+accuracy of PCA(n_components=9) = 0.43640652397363794
+accuracy of PCA(n_components=10) = 0.43672833907733233
+accuracy of PCA(n_components=11) = 0.4376209262954228
+accuracy of PCA(n_components=12) = 0.43559261442650704
+accuracy of PCA(n_components=13) = 0.4359490446822661
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5057372725074067
+accuracy of PCA(n_components=2) = 0.4718750377894673
+accuracy of PCA(n_components=3) = 0.4426124614547434
+accuracy of PCA(n_components=4) = 0.43989993349053746
+accuracy of PCA(n_components=5) = 0.45401082290344047
+accuracy of PCA(n_components=6) = 0.4557628181873147
+accuracy of PCA(n_components=7) = 0.4514692544893887
+accuracy of PCA(n_components=8) = 0.4552833454259629
+accuracy of PCA(n_components=9) = 0.4564694812261926
+accuracy of PCA(n_components=10) = 0.4536915019045893
+accuracy of PCA(n_components=11) = 0.45362582381038746
+accuracy of PCA(n_components=12) = 0.45612605054719163
+accuracy of PCA(n_components=13) = 0.45448659229699506
+HyperParams:
+    Activation     =tanh
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5209466261563578
+accuracy of PCA(n_components=2) = 0.4840360662676099
+accuracy of PCA(n_components=3) = 0.45026142753491755
+accuracy of PCA(n_components=4) = 0.4454050275107322
+accuracy of PCA(n_components=5) = 0.4661569623314591
+accuracy of PCA(n_components=6) = 0.4677082199649314
+accuracy of PCA(n_components=7) = 0.46779294395066207
+accuracy of PCA(n_components=8) = 0.4659634802587823
+accuracy of PCA(n_components=9) = 0.4720284630267852
+accuracy of PCA(n_components=10) = 0.4688078934639338
+accuracy of PCA(n_components=11) = 0.47142715702279464
+accuracy of PCA(n_components=12) = 0.4701516113428866
+accuracy of PCA(n_components=13) = 0.46847610194086703
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5043508525303827
+accuracy of PCA(n_components=2) = 0.45645277828163733
+accuracy of PCA(n_components=3) = 0.4258025727069351
+accuracy of PCA(n_components=4) = 0.4235675524517806
+accuracy of PCA(n_components=5) = 0.44657846604994245
+accuracy of PCA(n_components=6) = 0.4515305490053813
+accuracy of PCA(n_components=7) = 0.44980047161255216
+accuracy of PCA(n_components=8) = 0.45386518229639033
+accuracy of PCA(n_components=9) = 0.4552930951085314
+accuracy of PCA(n_components=10) = 0.4579350323477841
+accuracy of PCA(n_components=11) = 0.4567973426446581
+accuracy of PCA(n_components=12) = 0.4550998397726585
+accuracy of PCA(n_components=13) = 0.4572169568897756
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5248976661224983
+accuracy of PCA(n_components=2) = 0.4956739373601789
+accuracy of PCA(n_components=3) = 0.4387097920067718
+accuracy of PCA(n_components=4) = 0.43153946731966875
+accuracy of PCA(n_components=5) = 0.47466919100308363
+accuracy of PCA(n_components=6) = 0.49113640486123716
+accuracy of PCA(n_components=7) = 0.4914340347058467
+accuracy of PCA(n_components=8) = 0.49592538847572404
+accuracy of PCA(n_components=9) = 0.500159698288893
+accuracy of PCA(n_components=10) = 0.5022504383578209
+accuracy of PCA(n_components=11) = 0.5010023278311869
+accuracy of PCA(n_components=12) = 0.5040158866920613
+accuracy of PCA(n_components=13) = 0.5056637342040026
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5246282272205092
+accuracy of PCA(n_components=2) = 0.5042832849628152
+accuracy of PCA(n_components=3) = 0.4422292762561219
+accuracy of PCA(n_components=4) = 0.4304778856037245
+accuracy of PCA(n_components=5) = 0.48274532922183944
+accuracy of PCA(n_components=6) = 0.49912940625188945
+accuracy of PCA(n_components=7) = 0.49989139307092323
+accuracy of PCA(n_components=8) = 0.5086520497007074
+accuracy of PCA(n_components=9) = 0.5178249894189492
+accuracy of PCA(n_components=10) = 0.5164027450269062
+accuracy of PCA(n_components=11) = 0.5202287018562186
+accuracy of PCA(n_components=12) = 0.5185906040268455
+accuracy of PCA(n_components=13) = 0.5213404679847633
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.504327952113187
+accuracy of PCA(n_components=2) = 0.45670831065965295
+accuracy of PCA(n_components=3) = 0.42683996916379474
+accuracy of PCA(n_components=4) = 0.42195945945945945
+accuracy of PCA(n_components=5) = 0.447574823145293
+accuracy of PCA(n_components=6) = 0.45471809057379525
+accuracy of PCA(n_components=7) = 0.452114623012274
+accuracy of PCA(n_components=8) = 0.45403251405768186
+accuracy of PCA(n_components=9) = 0.45431336537880174
+accuracy of PCA(n_components=10) = 0.45546443255335883
+accuracy of PCA(n_components=11) = 0.45702831186891585
+accuracy of PCA(n_components=12) = 0.45810516052965716
+accuracy of PCA(n_components=13) = 0.4594915049277465
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5246215006953261
+accuracy of PCA(n_components=2) = 0.49585192575125464
+accuracy of PCA(n_components=3) = 0.4369584013543746
+accuracy of PCA(n_components=4) = 0.4284545619444949
+accuracy of PCA(n_components=5) = 0.4771616331096198
+accuracy of PCA(n_components=6) = 0.49044236350444403
+accuracy of PCA(n_components=7) = 0.487179620896064
+accuracy of PCA(n_components=8) = 0.4952547010097347
+accuracy of PCA(n_components=9) = 0.5014870911179637
+accuracy of PCA(n_components=10) = 0.5008110375476147
+accuracy of PCA(n_components=11) = 0.5040083287985972
+accuracy of PCA(n_components=12) = 0.5052386026966563
+accuracy of PCA(n_components=13) = 0.5066213948848176
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5239925328012576
+accuracy of PCA(n_components=2) = 0.5064286686014874
+accuracy of PCA(n_components=3) = 0.442331912449362
+accuracy of PCA(n_components=4) = 0.4314986546949634
+accuracy of PCA(n_components=5) = 0.4805093264405345
+accuracy of PCA(n_components=6) = 0.49893365681117363
+accuracy of PCA(n_components=7) = 0.5022434850958342
+accuracy of PCA(n_components=8) = 0.5096082743817643
+accuracy of PCA(n_components=9) = 0.5154218060342222
+accuracy of PCA(n_components=10) = 0.513966458068807
+accuracy of PCA(n_components=11) = 0.5181099220025395
+accuracy of PCA(n_components=12) = 0.5175609166213193
+accuracy of PCA(n_components=13) = 0.5187507557893464
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.504129935304432
+accuracy of PCA(n_components=2) = 0.45993666485277235
+accuracy of PCA(n_components=3) = 0.4279080506681179
+accuracy of PCA(n_components=4) = 0.42473441562367736
+accuracy of PCA(n_components=5) = 0.4477485035370943
+accuracy of PCA(n_components=6) = 0.4495247596589878
+accuracy of PCA(n_components=7) = 0.4521832486849265
+accuracy of PCA(n_components=8) = 0.45400190458915296
+accuracy of PCA(n_components=9) = 0.4560078450934156
+accuracy of PCA(n_components=10) = 0.4554069169840983
+accuracy of PCA(n_components=11) = 0.45574362113791644
+accuracy of PCA(n_components=12) = 0.4577676250075579
+accuracy of PCA(n_components=13) = 0.45619233327287023
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5266390803555232
+accuracy of PCA(n_components=2) = 0.4946172682749864
+accuracy of PCA(n_components=3) = 0.4398461968680089
+accuracy of PCA(n_components=4) = 0.4295643630207389
+accuracy of PCA(n_components=5) = 0.4752102605961667
+accuracy of PCA(n_components=6) = 0.49009590966805744
+accuracy of PCA(n_components=7) = 0.48649502690610064
+accuracy of PCA(n_components=8) = 0.4958706693270451
+accuracy of PCA(n_components=9) = 0.5030007860209204
+accuracy of PCA(n_components=10) = 0.4990563970010278
+accuracy of PCA(n_components=11) = 0.5037385875808694
+accuracy of PCA(n_components=12) = 0.5045204516597133
+accuracy of PCA(n_components=13) = 0.5055143902291553
+HyperParams:
+    Activation     =tanh
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5242597043352077
+accuracy of PCA(n_components=2) = 0.5066393070923272
+accuracy of PCA(n_components=3) = 0.4415279793216035
+accuracy of PCA(n_components=4) = 0.4281455196807546
+accuracy of PCA(n_components=5) = 0.4789211862869581
+accuracy of PCA(n_components=6) = 0.5009808634137494
+accuracy of PCA(n_components=7) = 0.49936679968559156
+accuracy of PCA(n_components=8) = 0.5072141604691941
+accuracy of PCA(n_components=9) = 0.5183253975451962
+accuracy of PCA(n_components=10) = 0.5128195477356552
+accuracy of PCA(n_components=11) = 0.5188700193482073
+accuracy of PCA(n_components=12) = 0.518601411814499
+accuracy of PCA(n_components=13) = 0.5203673136223472
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5206926809359694
+accuracy of PCA(n_components=2) = 0.44600436846242214
+accuracy of PCA(n_components=3) = 0.375190685652095
+accuracy of PCA(n_components=4) = 0.39658602394340653
+accuracy of PCA(n_components=5) = 0.4625538122014632
+accuracy of PCA(n_components=6) = 0.47200321966261566
+accuracy of PCA(n_components=7) = 0.472102454803797
+accuracy of PCA(n_components=8) = 0.47383427051212285
+accuracy of PCA(n_components=9) = 0.47652140395428977
+accuracy of PCA(n_components=10) = 0.47679477296088035
+accuracy of PCA(n_components=11) = 0.4784567537335994
+accuracy of PCA(n_components=12) = 0.47931472579962514
+accuracy of PCA(n_components=13) = 0.4770984491202613
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5123566267609891
+accuracy of PCA(n_components=2) = 0.4282374236652762
+accuracy of PCA(n_components=3) = 0.3757795211318701
+accuracy of PCA(n_components=4) = 0.39886163008646225
+accuracy of PCA(n_components=5) = 0.4659039240582864
+accuracy of PCA(n_components=6) = 0.47946966261563595
+accuracy of PCA(n_components=7) = 0.47819978535582564
+accuracy of PCA(n_components=8) = 0.4797359272023701
+accuracy of PCA(n_components=9) = 0.48306102243182775
+accuracy of PCA(n_components=10) = 0.4832127849325836
+accuracy of PCA(n_components=11) = 0.4828958824596408
+accuracy of PCA(n_components=12) = 0.4842129965536007
+accuracy of PCA(n_components=13) = 0.4853926325654513
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5074513271660922
+accuracy of PCA(n_components=2) = 0.42132164883003814
+accuracy of PCA(n_components=3) = 0.37991074127819086
+accuracy of PCA(n_components=4) = 0.40886510671745563
+accuracy of PCA(n_components=5) = 0.47164671382792184
+accuracy of PCA(n_components=6) = 0.47865031138521075
+accuracy of PCA(n_components=7) = 0.47664731845939906
+accuracy of PCA(n_components=8) = 0.4854991232843581
+accuracy of PCA(n_components=9) = 0.4868749622105328
+accuracy of PCA(n_components=10) = 0.4880301106475604
+accuracy of PCA(n_components=11) = 0.4876166182961485
+accuracy of PCA(n_components=12) = 0.4872511941471673
+accuracy of PCA(n_components=13) = 0.48902276437511333
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5178014843702764
+accuracy of PCA(n_components=2) = 0.4467835116996192
+accuracy of PCA(n_components=3) = 0.3755794636918798
+accuracy of PCA(n_components=4) = 0.39463155269363326
+accuracy of PCA(n_components=5) = 0.46127456315375787
+accuracy of PCA(n_components=6) = 0.4667941683294033
+accuracy of PCA(n_components=7) = 0.4688306427232602
+accuracy of PCA(n_components=8) = 0.47364101517625007
+accuracy of PCA(n_components=9) = 0.4733905465868553
+accuracy of PCA(n_components=10) = 0.4731610889412903
+accuracy of PCA(n_components=11) = 0.4784970373057621
+accuracy of PCA(n_components=12) = 0.47616708990870055
+accuracy of PCA(n_components=13) = 0.4768719390531471
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5111457010701977
+accuracy of PCA(n_components=2) = 0.4319593083015902
+accuracy of PCA(n_components=3) = 0.37721665457403714
+accuracy of PCA(n_components=4) = 0.3971419825866134
+accuracy of PCA(n_components=5) = 0.4619370880948062
+accuracy of PCA(n_components=6) = 0.4691170868855432
+accuracy of PCA(n_components=7) = 0.4738601185077695
+accuracy of PCA(n_components=8) = 0.4764248140758209
+accuracy of PCA(n_components=9) = 0.47647363806759785
+accuracy of PCA(n_components=10) = 0.47752002841767943
+accuracy of PCA(n_components=11) = 0.47683407400689287
+accuracy of PCA(n_components=12) = 0.4807304704032891
+accuracy of PCA(n_components=13) = 0.4797117419432857
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5059794274139912
+accuracy of PCA(n_components=2) = 0.4227777525847995
+accuracy of PCA(n_components=3) = 0.37401815406010036
+accuracy of PCA(n_components=4) = 0.39899623616905505
+accuracy of PCA(n_components=5) = 0.46266143660438946
+accuracy of PCA(n_components=6) = 0.47181517927323313
+accuracy of PCA(n_components=7) = 0.47505759114819524
+accuracy of PCA(n_components=8) = 0.4746149253280126
+accuracy of PCA(n_components=9) = 0.4782369701916682
+accuracy of PCA(n_components=10) = 0.47889344881794543
+accuracy of PCA(n_components=11) = 0.47862839349416536
+accuracy of PCA(n_components=12) = 0.47830128786504633
+accuracy of PCA(n_components=13) = 0.478561203821271
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5195631537577846
+accuracy of PCA(n_components=2) = 0.44948311566600174
+accuracy of PCA(n_components=3) = 0.3766200344639942
+accuracy of PCA(n_components=4) = 0.3950687012515871
+accuracy of PCA(n_components=5) = 0.45907264647197543
+accuracy of PCA(n_components=6) = 0.46927512243787406
+accuracy of PCA(n_components=7) = 0.46812261926355886
+accuracy of PCA(n_components=8) = 0.4707606263982103
+accuracy of PCA(n_components=9) = 0.47475988572465083
+accuracy of PCA(n_components=10) = 0.471190065904831
+accuracy of PCA(n_components=11) = 0.4732583590301711
+accuracy of PCA(n_components=12) = 0.47518720902110156
+accuracy of PCA(n_components=13) = 0.47814431041780037
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5116609982465686
+accuracy of PCA(n_components=2) = 0.43292331761291497
+accuracy of PCA(n_components=3) = 0.3789734113307939
+accuracy of PCA(n_components=4) = 0.39406985005139367
+accuracy of PCA(n_components=5) = 0.45935485821391864
+accuracy of PCA(n_components=6) = 0.4699185259084588
+accuracy of PCA(n_components=7) = 0.47124773263196074
+accuracy of PCA(n_components=8) = 0.47192983251708076
+accuracy of PCA(n_components=9) = 0.4736313410726163
+accuracy of PCA(n_components=10) = 0.4773056109801076
+accuracy of PCA(n_components=11) = 0.47454886933913787
+accuracy of PCA(n_components=12) = 0.4765848146804524
+accuracy of PCA(n_components=13) = 0.4754534736078361
+HyperParams:
+    Activation     =logistic
+    Solver         =lbfgs
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5089121168148014
+accuracy of PCA(n_components=2) = 0.42331972912509824
+accuracy of PCA(n_components=3) = 0.3750324233629604
+accuracy of PCA(n_components=4) = 0.3944385240945644
+accuracy of PCA(n_components=5) = 0.4605623072737168
+accuracy of PCA(n_components=6) = 0.4707171685107926
+accuracy of PCA(n_components=7) = 0.46946724408972723
+accuracy of PCA(n_components=8) = 0.4747076606808151
+accuracy of PCA(n_components=9) = 0.4751702037608077
+accuracy of PCA(n_components=10) = 0.4727490325896366
+accuracy of PCA(n_components=11) = 0.47706647923090884
+accuracy of PCA(n_components=12) = 0.4732672017655239
+accuracy of PCA(n_components=13) = 0.47833114154422884
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.538551756454441
+accuracy of PCA(n_components=2) = 0.5323099945583166
+accuracy of PCA(n_components=3) = 0.5331812685168388
+accuracy of PCA(n_components=4) = 0.5317537335993712
+accuracy of PCA(n_components=5) = 0.5342905405405405
+accuracy of PCA(n_components=6) = 0.5341531380373664
+accuracy of PCA(n_components=7) = 0.5343131386419977
+accuracy of PCA(n_components=8) = 0.5344230304129634
+accuracy of PCA(n_components=9) = 0.5343468468468467
+accuracy of PCA(n_components=10) = 0.5327903742668842
+accuracy of PCA(n_components=11) = 0.5339939688010158
+accuracy of PCA(n_components=12) = 0.534098494467622
+accuracy of PCA(n_components=13) = 0.5337159894794125
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5387238496886145
+accuracy of PCA(n_components=2) = 0.5277588578511397
+accuracy of PCA(n_components=3) = 0.5255808241127032
+accuracy of PCA(n_components=4) = 0.5242314378136527
+accuracy of PCA(n_components=5) = 0.5270814438599674
+accuracy of PCA(n_components=6) = 0.5276862264949513
+accuracy of PCA(n_components=7) = 0.5261401082290345
+accuracy of PCA(n_components=8) = 0.5274057530685048
+accuracy of PCA(n_components=9) = 0.5279654906584437
+accuracy of PCA(n_components=10) = 0.5267963601185078
+accuracy of PCA(n_components=11) = 0.5272675947759841
+accuracy of PCA(n_components=12) = 0.5262957252554569
+accuracy of PCA(n_components=13) = 0.5283745994316463
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5382888173408308
+accuracy of PCA(n_components=2) = 0.5256965354616362
+accuracy of PCA(n_components=3) = 0.5239127970252131
+accuracy of PCA(n_components=4) = 0.520577120744906
+accuracy of PCA(n_components=5) = 0.5244540933551002
+accuracy of PCA(n_components=6) = 0.5267887266461093
+accuracy of PCA(n_components=7) = 0.525743092085374
+accuracy of PCA(n_components=8) = 0.5259314347904954
+accuracy of PCA(n_components=9) = 0.5256471068383821
+accuracy of PCA(n_components=10) = 0.5247822570893041
+accuracy of PCA(n_components=11) = 0.5257582078723018
+accuracy of PCA(n_components=12) = 0.5251717909184351
+accuracy of PCA(n_components=13) = 0.5267223683414959
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5385573492956045
+accuracy of PCA(n_components=2) = 0.5327079932281273
+accuracy of PCA(n_components=3) = 0.5335021766733176
+accuracy of PCA(n_components=4) = 0.5318064876957496
+accuracy of PCA(n_components=5) = 0.5344484249350021
+accuracy of PCA(n_components=6) = 0.5344800169296815
+accuracy of PCA(n_components=7) = 0.5339153667089909
+accuracy of PCA(n_components=8) = 0.5334842644658081
+accuracy of PCA(n_components=9) = 0.5343144234838866
+accuracy of PCA(n_components=10) = 0.533761110103392
+accuracy of PCA(n_components=11) = 0.5340684140516354
+accuracy of PCA(n_components=12) = 0.5347238345728279
+accuracy of PCA(n_components=13) = 0.5337543835782091
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5387189370578632
+accuracy of PCA(n_components=2) = 0.5266421790918436
+accuracy of PCA(n_components=3) = 0.5263168117782212
+accuracy of PCA(n_components=4) = 0.5234490446822663
+accuracy of PCA(n_components=5) = 0.527254368462422
+accuracy of PCA(n_components=6) = 0.5268386843219057
+accuracy of PCA(n_components=7) = 0.5268240220085858
+accuracy of PCA(n_components=8) = 0.5277362597496825
+accuracy of PCA(n_components=9) = 0.5277454048007739
+accuracy of PCA(n_components=10) = 0.5261060977084466
+accuracy of PCA(n_components=11) = 0.5258853316403653
+accuracy of PCA(n_components=12) = 0.5274956164217909
+accuracy of PCA(n_components=13) = 0.5268706542112582
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5384828284660499
+accuracy of PCA(n_components=2) = 0.5262545347360784
+accuracy of PCA(n_components=3) = 0.5216642481407582
+accuracy of PCA(n_components=4) = 0.5211811475905436
+accuracy of PCA(n_components=5) = 0.5251010490356127
+accuracy of PCA(n_components=6) = 0.525838623858758
+accuracy of PCA(n_components=7) = 0.5249950117903136
+accuracy of PCA(n_components=8) = 0.525016551786686
+accuracy of PCA(n_components=9) = 0.5251438267126186
+accuracy of PCA(n_components=10) = 0.5257143720902111
+accuracy of PCA(n_components=11) = 0.5259168480561098
+accuracy of PCA(n_components=12) = 0.5260036882520104
+accuracy of PCA(n_components=13) = 0.5270970886994377
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5385803252917346
+accuracy of PCA(n_components=2) = 0.5332415049277465
+accuracy of PCA(n_components=3) = 0.5333918314287441
+accuracy of PCA(n_components=4) = 0.5333436120684443
+accuracy of PCA(n_components=5) = 0.5345543110224319
+accuracy of PCA(n_components=6) = 0.5351251587157628
+accuracy of PCA(n_components=7) = 0.5348575337082049
+accuracy of PCA(n_components=8) = 0.5342803373843642
+accuracy of PCA(n_components=9) = 0.534940292641635
+accuracy of PCA(n_components=10) = 0.5344081413628393
+accuracy of PCA(n_components=11) = 0.5337804583106596
+accuracy of PCA(n_components=12) = 0.5338149223048553
+accuracy of PCA(n_components=13) = 0.5347905707721146
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5387041235866739
+accuracy of PCA(n_components=2) = 0.5278656508857853
+accuracy of PCA(n_components=3) = 0.5249063576999818
+accuracy of PCA(n_components=4) = 0.5243257603240825
+accuracy of PCA(n_components=5) = 0.5274323568534979
+accuracy of PCA(n_components=6) = 0.5271292853255941
+accuracy of PCA(n_components=7) = 0.52716783058226
+accuracy of PCA(n_components=8) = 0.5267194207630449
+accuracy of PCA(n_components=9) = 0.5278190186831128
+accuracy of PCA(n_components=10) = 0.5260854646592902
+accuracy of PCA(n_components=11) = 0.5278924058286475
+accuracy of PCA(n_components=12) = 0.5266937995042021
+accuracy of PCA(n_components=13) = 0.5285915109740613
+HyperParams:
+    Activation     =logistic
+    Solver         =sgd
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5386618749622105
+accuracy of PCA(n_components=2) = 0.5248986486486487
+accuracy of PCA(n_components=3) = 0.522192998367495
+accuracy of PCA(n_components=4) = 0.5203427504685895
+accuracy of PCA(n_components=5) = 0.5256102998972126
+accuracy of PCA(n_components=6) = 0.5266000816252493
+accuracy of PCA(n_components=7) = 0.5260252282483827
+accuracy of PCA(n_components=8) = 0.5263025273595744
+accuracy of PCA(n_components=9) = 0.5264670627002842
+accuracy of PCA(n_components=10) = 0.527785839530806
+accuracy of PCA(n_components=11) = 0.5273523187617148
+accuracy of PCA(n_components=12) = 0.526267383154967
+accuracy of PCA(n_components=13) = 0.5273544349718846
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5379887689703124
+accuracy of PCA(n_components=2) = 0.5232411270330733
+accuracy of PCA(n_components=3) = 0.5193935546284539
+accuracy of PCA(n_components=4) = 0.5154500725557773
+accuracy of PCA(n_components=5) = 0.5325405858879012
+accuracy of PCA(n_components=6) = 0.5357243485095834
+accuracy of PCA(n_components=7) = 0.5361994376927264
+accuracy of PCA(n_components=8) = 0.5378230243666484
+accuracy of PCA(n_components=9) = 0.5363076667271297
+accuracy of PCA(n_components=10) = 0.5380572434850959
+accuracy of PCA(n_components=11) = 0.540248957010702
+accuracy of PCA(n_components=12) = 0.5386648981195961
+accuracy of PCA(n_components=13) = 0.5390050789044077
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5380047161255214
+accuracy of PCA(n_components=2) = 0.5211365560191064
+accuracy of PCA(n_components=3) = 0.5102265856460486
+accuracy of PCA(n_components=4) = 0.5048386389745452
+accuracy of PCA(n_components=5) = 0.5392798083318218
+accuracy of PCA(n_components=6) = 0.5503393494165307
+accuracy of PCA(n_components=7) = 0.5522618507769514
+accuracy of PCA(n_components=8) = 0.5590464961605901
+accuracy of PCA(n_components=9) = 0.5596623133200314
+accuracy of PCA(n_components=10) = 0.5590876866799684
+accuracy of PCA(n_components=11) = 0.5623066690851927
+accuracy of PCA(n_components=12) = 0.5639353951266703
+accuracy of PCA(n_components=13) = 0.5632791432371971
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =0.0001
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.537887946671504
+accuracy of PCA(n_components=2) = 0.5171137916439931
+accuracy of PCA(n_components=3) = 0.5008551000665095
+accuracy of PCA(n_components=4) = 0.49587157627426076
+accuracy of PCA(n_components=5) = 0.538834043775319
+accuracy of PCA(n_components=6) = 0.5538089515690188
+accuracy of PCA(n_components=7) = 0.5532200405103089
+accuracy of PCA(n_components=8) = 0.5633258510188041
+accuracy of PCA(n_components=9) = 0.5654441018199408
+accuracy of PCA(n_components=10) = 0.5642801862264949
+accuracy of PCA(n_components=11) = 0.5703665578330007
+accuracy of PCA(n_components=12) = 0.5708381703851502
+accuracy of PCA(n_components=13) = 0.5680965445311084
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5382598706088639
+accuracy of PCA(n_components=2) = 0.5247562579357882
+accuracy of PCA(n_components=3) = 0.5186519741217729
+accuracy of PCA(n_components=4) = 0.5147310901505533
+accuracy of PCA(n_components=5) = 0.5335076183566115
+accuracy of PCA(n_components=6) = 0.5366278190942619
+accuracy of PCA(n_components=7) = 0.5363691879799263
+accuracy of PCA(n_components=8) = 0.5367146592901626
+accuracy of PCA(n_components=9) = 0.5371468952173649
+accuracy of PCA(n_components=10) = 0.5398632777072374
+accuracy of PCA(n_components=11) = 0.5396382036398815
+accuracy of PCA(n_components=12) = 0.538052406433279
+accuracy of PCA(n_components=13) = 0.5380842251647621
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.537576712618659
+accuracy of PCA(n_components=2) = 0.5213243696716852
+accuracy of PCA(n_components=3) = 0.5095596015478565
+accuracy of PCA(n_components=4) = 0.5052429862748654
+accuracy of PCA(n_components=5) = 0.5399548037970856
+accuracy of PCA(n_components=6) = 0.5512569532619869
+accuracy of PCA(n_components=7) = 0.5527036096499185
+accuracy of PCA(n_components=8) = 0.5563861176612854
+accuracy of PCA(n_components=9) = 0.5587018562186348
+accuracy of PCA(n_components=10) = 0.5592843430679
+accuracy of PCA(n_components=11) = 0.5631554961001269
+accuracy of PCA(n_components=12) = 0.5633730878529537
+accuracy of PCA(n_components=13) = 0.5638013936755547
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-05
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5378367041538182
+accuracy of PCA(n_components=2) = 0.5176364199770239
+accuracy of PCA(n_components=3) = 0.501094685289316
+accuracy of PCA(n_components=4) = 0.4948222383457283
+accuracy of PCA(n_components=5) = 0.5397762107745331
+accuracy of PCA(n_components=6) = 0.5534291674224561
+accuracy of PCA(n_components=7) = 0.5527803222685773
+accuracy of PCA(n_components=8) = 0.5623184593989964
+accuracy of PCA(n_components=9) = 0.5663205907249529
+accuracy of PCA(n_components=10) = 0.5659147318459399
+accuracy of PCA(n_components=11) = 0.5715198167966624
+accuracy of PCA(n_components=12) = 0.5688777283995405
+accuracy of PCA(n_components=13) = 0.5691834451901567
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =100
+
+accuracy of PCA(n_components=1) = 0.5381642632565451
+accuracy of PCA(n_components=2) = 0.524675388475724
+accuracy of PCA(n_components=3) = 0.5183513211197774
+accuracy of PCA(n_components=4) = 0.5145549912328437
+accuracy of PCA(n_components=5) = 0.5352971007920674
+accuracy of PCA(n_components=6) = 0.5366164822540661
+accuracy of PCA(n_components=7) = 0.5373146048733298
+accuracy of PCA(n_components=8) = 0.5381908670415381
+accuracy of PCA(n_components=9) = 0.5379035159320394
+accuracy of PCA(n_components=10) = 0.5364686498579118
+accuracy of PCA(n_components=11) = 0.5391891136102546
+accuracy of PCA(n_components=12) = 0.5392985519076123
+accuracy of PCA(n_components=13) = 0.5384800320454682
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =200
+
+accuracy of PCA(n_components=1) = 0.5379930013906524
+accuracy of PCA(n_components=2) = 0.521466231332003
+accuracy of PCA(n_components=3) = 0.5100655269363323
+accuracy of PCA(n_components=4) = 0.5050661315678094
+accuracy of PCA(n_components=5) = 0.5403853769877258
+accuracy of PCA(n_components=6) = 0.5529378287683658
+accuracy of PCA(n_components=7) = 0.5517631053872665
+accuracy of PCA(n_components=8) = 0.5571396396396397
+accuracy of PCA(n_components=9) = 0.5580407672773443
+accuracy of PCA(n_components=10) = 0.5592657506499787
+accuracy of PCA(n_components=11) = 0.5633058226011246
+accuracy of PCA(n_components=12) = 0.5630488542233508
+accuracy of PCA(n_components=13) = 0.565854344277163
+HyperParams:
+    Activation     =logistic
+    Solver         =adam
+    Alpha          =1e-06
+    Max_iterations =300
+
+accuracy of PCA(n_components=1) = 0.5379591420279338
+accuracy of PCA(n_components=2) = 0.5185097345667816
+accuracy of PCA(n_components=3) = 0.5011239343370215
+accuracy of PCA(n_components=4) = 0.4946401686921822
+accuracy of PCA(n_components=5) = 0.5375334814680454
+accuracy of PCA(n_components=6) = 0.5547985821391861
+accuracy of PCA(n_components=7) = 0.553295468287079
+accuracy of PCA(n_components=8) = 0.5617909940141482
+accuracy of PCA(n_components=9) = 0.5638276951448093
+accuracy of PCA(n_components=10) = 0.5665727220509098
+accuracy of PCA(n_components=11) = 0.5690124856400025
+accuracy of PCA(n_components=12) = 0.567992018864502
+accuracy of PCA(n_components=13) = 0.5690158866920612
+
+Values to get highest average score:
+    accuracy      =0.5715198167966624
+    activation    =logistic
+    solver        =adam
+    alpha         =1e-05
+    max_itertion  =300
+    n_comparisons =11
