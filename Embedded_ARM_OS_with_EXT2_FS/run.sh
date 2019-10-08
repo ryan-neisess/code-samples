@@ -6,7 +6,7 @@ sudo ./mk.sh login
 sudo ./mk.sh sh
 sudo ./mk.sh ls
 sudo ./mk.sh cat
-sudo ./mk.sh Cat
+sudo ./mk.sh _Cat
 sudo ./mk.sh more
 sudo ./mk.sh l2u
 sudo ./mk.sh grep
